@@ -155,7 +155,6 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/RpYlWSk.png') !important; top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
-#room-bar .icon-room { background-image: url('https://i.imgur.com/6kPbPRc.png') !important; }  }
 
 /* Evento do ícone do meh! */
 #user-lists .list { -webkit-animation:fadein 0.5s; -ms-animation:fadein 0.5s; animation:fadein 0.5; }

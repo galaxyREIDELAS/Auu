@@ -314,8 +314,8 @@ background: linear-gradient(to bottom,rgba(102, 102, 102, 0) 0,rgba(31, 255, 0, 
 #grab .bottom, #grab.selected {
 background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #eec81b 100%); }
 #meh .bottom, #meh.selected {
-background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #F70000 100%); }
-.pop-menu li:hover { background: #F70000 !important; box-shadow: 0 0 15px #F70000 !important; }
+background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #7FFFD4 100%); }
+.pop-menu li:hover { background: #7FFFD4 !important; box-shadow: 0 0 15px #7FFFD4 !important; }
 .pop-menu { opacity: .85; border-radius: 30px 30px 0 0; } 
 .pop-menu .bar { background: linear-gradient(to top,rgba(77, 77, 77, 0.6) 0,rgba(15, 15, 30, 1) 100%); border-radius: 30px 30px 0 0; }
 .pop-menu ul { background: linear-gradient(to bottom,rgba(15, 15, 15, 0.5) 0,rgba(0, 0, 0, 0) 100%); } 
@@ -343,16 +343,16 @@ border-radius: 10px !important; }
 /* Aleatoridades e frescuras novas */
 
 .focused{
-  -moz-box-shadow: inset 0 0 0 0.2em #F70000 !important;
-  -webkit-box-shadow: inset 0 0 0 0.2em #F70000 !important;
-  box-shadow: inset 0 0 0 0.1em #F70000 !important;
+  -moz-box-shadow: inset 0 0 0 0.2em #7FFFD4 !important;
+  -webkit-box-shadow: inset 0 0 0 0.2em #7FFFD4 !important;
+  box-shadow: inset 0 0 0 0.1em #7FFFD4 !important;
 }
 .user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #FC0030 !important; }
 
 #volume .slider .line, #user-settings .container .cap .slider .bar {
     top: 8px;
     height: 5px;
-    background: #F70000;
+    background: #7FFFD4;
     display: block;
     overflow: hidden;
     cursor: pointer;
@@ -363,7 +363,7 @@ border-radius: 10px !important; }
     overflow: visible;
 }
 #room-name  span:hover {
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000 ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #7FFFD4 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000 ;
 }
 
 #room-name .bar-value  {
@@ -434,6 +434,6 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 				transform : rotate(360deg);
 			}
 
-#tooltip span{ background:#F70000 }
-#tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #F70000; }
-#tooltip.right .corner{ border-top:10px solid #F70000; border-right:10px solid #F70000; }
+#tooltip span{ background:#7FFFD4 }
+#tooltip .corner{ border-top: 10px solid #7FFFD4; border-left: 10px solid #7FFFD4; }
+#tooltip.right .corner{ border-top:10px solid #7FFFD4; border-right:10px solid #7FFFD4; }

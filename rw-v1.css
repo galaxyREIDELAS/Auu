@@ -1,8 +1,8 @@
 /* Larga isto quieto, não é da sua conta */
 
-.userInfo.dj .votedBackgroundColor { background-color: #0A4380; font-weight: bold; }
-.userInfo.woot .votedBackgroundColor { background-color: #407D42; }
-.userInfo.meh .votedBackgroundColor { background-color: #702B30; }
+.userInfo.dj .votedBackgroundColor { background-color: #721022; font-weight: bold; }
+.userInfo.woot .votedBackgroundColor { background-color: #721022; }
+.userInfo.meh .votedBackgroundColor { background-color: #721022; }
 #plugbot-userlist { position: absolute; top: 54px; width: 220px; max-height: 445px; overflow: hidden;
 outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
 #nwootCreator { margin-bottom: 0 px; width: 220px;  height: auto; cursor: move }

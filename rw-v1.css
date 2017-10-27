@@ -275,10 +275,10 @@ background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba
 
 #history-button .icon, 
 #footer-user .buttons .button.settings .icon {
-        -moz-transition:        transform 1s ease-in-out;
-        -webkit-transition:     transform 1s ease-in-out;
-        -o-transition:          transform 1s ease-in-out;
-        transition:             transform 1s ease-in-out;
+        -moz-transition:        transform 2s ease-in-out;
+        -webkit-transition:     transform 2s ease-in-out;
+        -o-transition:          transform 2s ease-in-out;
+        transition:             transform 2s ease-in-out;
 }
 #history-button .icon:hover, 
 #footer-user .buttons .button.settings .icon:hover

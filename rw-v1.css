@@ -74,7 +74,7 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 box-shadow: 0 0 10px #0c0c0c !important; }
 .media-list.history .score .grabs span {   color: #800080; }
 #playlist-create:hover { box-shadow: 0 0 10px #0c0c0c !important; background: linear-gradient(to bottom, #0c0c0c 0px, #0c0c0c 100%) !important; }
-#playlist-import:hover { box-shadow: 0 0 10px #6E186D !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
+#playlist-import:hover { box-shadow: 0 0 10px #6e1717 !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
 #playlist-edit-button { background: linear-gradient(to bottom, #2F5286 0px, #091036 100%); } 
 #playlist-edit-button:hover { background: linear-gradient(to bottom, #5290EC 0px, #142580 100%); } 
 #playlist-shuffle-button { background: linear-gradient(to bottom, #473861 0px, #140A27 100%); } 

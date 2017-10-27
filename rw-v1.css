@@ -14,7 +14,7 @@ outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
     background: -o-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* Opera 11.10+ */ 
     background: -ms-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* IE10+ */ 
     background: linear-gradient(to bottom,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* W3C */ 
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 ); /* IE6-9 */ }
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2F4F4F', endColorstr='#2F4F4F',GradientType=0 ); /* IE6-9 */ }
 .ulh3 { text-decoration:none; font-weight:bold; cursor:pointer; color:rgb(37,141,200); font-size:13px; }
 .ul-admin { color: #42A5DC; }
 .ul-ambassador{ color: #89be6c; }

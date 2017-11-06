@@ -93,8 +93,8 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 
 /* Itens relacionados ao Menu de comunidades! */
 
-#dashboard .icon-grab {  background: url('https://i.imgur.com/olBhyJn.jpg');  }
-#room-bar .favorite .icon-grab {  background: url('https://i.imgur.com/olBhyJn.jpg');  }
+#dashboard .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
+#room-bar .favorite .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
 #dashboard .search { border-radius: 20px; background:  #282c35; }
 #dashboard { background-color: rgba(0, 0, 0, 0.89) !important;  }
 .communities .grid .cell {border-radius: 30px; }

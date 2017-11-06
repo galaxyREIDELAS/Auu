@@ -17,7 +17,7 @@
         "admin": "#42A5DC",
         "ambassador": "#84B423",
         "host": "#8B92A3"
-        "cohost":null,
+        "cohost": null,
         "manager": null,
         "bouncer": null,
         "rdj": null,

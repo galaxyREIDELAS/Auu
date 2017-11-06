@@ -29,14 +29,14 @@
     "images": {
         "background":          "https://imgur.com/Upf23Mr.jpg",
         "playback": null,
-        "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "admin": null,
+        "ambassador": null,
         "host": null,
         "cohost": null,
         "manager": null,
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
-        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "silversubscriber": null,
     }
 }

@@ -80,7 +80,7 @@ box-shadow: 0 0 10px #0a090a !important; }
 #playlist-shuffle-button { background: linear-gradient(to bottom, #473861 0px, #140A27 100%); } 
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%); } 
 #playlist-delete-button { background: linear-gradient(to top, #0a090a 0px, #0a090a 100%); } 
-#playlist-activate-button span, #playlist-menu .menu .row .count, .media-list.history .meta .timestamp { color: #0a090a; }
+#playlist-activate-button span, #playlist-menu .menu .row .count, .media-list.history .meta .timestamp { color: #FFFFFF; }
 #playlist-menu .title { color:  #e8eaf2;; }
 #playlist-delete-button:hover { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }

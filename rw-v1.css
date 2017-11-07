@@ -310,11 +310,11 @@ background: linear-gradient(to bottom,rgba(102, 102, 102, 0) 0,rgba(170, 116, 25
 #woot .bottom, #woot.selected {
 background: linear-gradient(to bottom,rgba(144, 173, 47, 0) 0px, #90ad2f 100%); }
 #woot.crowd-response.disabled.active .bottom {
-background: linear-gradient(to bottom,rgba(102, 102, 102, 0) 0,rgba(31, 255, 0, 0.50) 100%); }
+background: linear-gradient(to bottom,rgba(144, 173, 47, 0) 0,rgba(31, 255, 0, 0.50) 100%); }
 #grab .bottom, #grab.selected {
-background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #aa74ff 100%); }
+background: linear-gradient(to bottom,rgba(170, 116, 255, 0) 0px, #aa74ff 100%); }
 #meh .bottom, #meh.selected {
-background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #c42e3b 100%); }
+background: linear-gradient(to bottom,rgba(196, 46, 59, 0) 0px, #c42e3b 100%); }
 .pop-menu li:hover { background: #808080 !important; box-shadow: 0 0 15px #808080 !important; }
 .pop-menu { opacity: .85; border-radius: 30px 30px 0 0; } 
 .pop-menu .bar { background: linear-gradient(to top,rgba(77, 77, 77, 0.6) 0,rgba(15, 15, 30, 1) 100%); border-radius: 30px 30px 0 0; }

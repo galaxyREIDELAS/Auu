@@ -29,7 +29,7 @@ outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
 .row:hover, #user-lists .list .user:hover, .media-list .actions {
 text-decoration: none;
 background-color: rgba(213, 28, 28, 0.22) !important;
-background: linear-gradient(to right,rgba(255, 255, 255, 0.05) 0,rgba(255, 255, 255, .49) 100%) !important;
+background: linear-gradient(to right,rgba(255, 255, 255, 0.05) 0,rgba(255, 255, 255, 0.49) 100%) !important;
 -webkit-transition: 200ms linear 0s;
 -moz-transition: 200ms linear 0s; -o-transition: 200ms linear 0s; transition: 300ms linear 0,1s; outline: 0 none;
 text-shadow: -1px 1px 8px #4169E1, 1px -1px 8px #4169E1; }

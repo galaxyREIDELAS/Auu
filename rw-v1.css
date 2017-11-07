@@ -72,7 +72,7 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 .media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
 .media-list.history .row.selected, .media-list.history .selected .actions {  background:#0c0c0c!important; 
 box-shadow: 0 0 10px #0a090a !important; }
-.media-list.history .score .grabs span {   color: #800080; }
+.media-list.history .score .grabs span {   color: #0a090a; }
 #playlist-create:hover { box-shadow: 0 0 10px #0a090a !important; background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; }
 #playlist-import:hover { box-shadow: 0 0 10px #0a090a !important; background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%)!important; }
 #playlist-edit-button { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%); } 
@@ -87,7 +87,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%); box-shadow: 0 0 10px #0a090a !important; }
  #playlist-panel, #history-panel  { background : black-transparent; opacity: 0.9;  text-shadow: 1px -1px #000; } 
 #playlist-menu {    background: none;  } 
- #playlist-activate-button { background: linear-gradient(to bottom, #A11D20 0px, #A11D20 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
+ #playlist-activate-button { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
 #search {background: #000 !important;  }
 
 

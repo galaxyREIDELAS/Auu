@@ -86,7 +86,7 @@ box-shadow: 0 0 10px #0a090a !important; }
 box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%); box-shadow: 0 0 10px #0a090a !important; }
  #playlist-panel, #history-panel  { background : black-transparent; opacity: 0.9;  text-shadow: 1px -1px #000; } 
-#playlist-menu {    background: none;  } 
+#playlist-menu {    background: black-transparent; opacity: 0.9;  text-shadow: 1px -1px #000;  } 
  #playlist-activate-button { background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
 #search {background: #000 !important;  }
 

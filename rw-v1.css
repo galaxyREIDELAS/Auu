@@ -91,12 +91,11 @@ box-shadow: 0 0 10px #bc1234 !important; }
 
 /* Itens relacionados ao Menu de comunidades! */
 
-#dashboard .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
-#room-bar .favorite .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
+
 #dashboard .search { border-radius: 20px; background:  #282c35; }
 #dashboard { background-color: rgba(0, 0, 0, 0.89) !important;  }
 .communities .grid .cell {border-radius: 30px; }
-.tab-menu button.selected { background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important; border-radius: 30px; }
+.tab-menu button.selected { background: linear-gradient(to bottom,rgba(188, 18, 52, 0.8) 0,rgba(188, 18, 52, 1) 100%) !important; border-radius: 30px; }
 
  /* Itens relacionados aos círculos de status! */
 

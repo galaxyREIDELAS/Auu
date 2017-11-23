@@ -295,25 +295,7 @@ top: 10px !important;
 }
 #woot.crowd-response .icon{
   background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
-}
 
-#room-name {
-  display: none!important;
-} 
-
-#room-host {
-  left: 16px !important;
-  top: 31px!important;
-
-} 
-
-#room-bar .icon-room {
-  background: url() center no-repeat !important;
-  width: 100px!important;
- top: 5px!important;
-  background-position: 0!important;
- background-size: cover!important;
-	
 }
 
 #woot.crowd-response.disabled .icon,

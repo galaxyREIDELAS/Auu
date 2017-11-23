@@ -288,6 +288,145 @@ background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba
         -o-transform            rotate(360deg) !important;
         transform:              rotate(360deg) !important;
 }
+#vote .label{
+display: none !important;
+}
+#vote .value{
+ top: 25px !important;
+}
+#vote .top,
+#woot .icon,
+#grab .icon,
+#meh .icon{
+height: 80px !important;
+width: 80px !important;
+margin: 0 !important;
+top: 10px !important;
+}
+#woot.crowd-response .icon{
+  background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+
+#room-name {
+  display: none!important;
+} 
+
+#room-host {
+  left: 16px !important;
+  top: 31px!important;
+}
+
+#room-bar .icon-room {
+  background: url(https://i.imgur.com/5Ptg1cA.png) center no-repeat !important;
+  width: 100px!important;
+ top: 5px!important;
+  background-position: 0!important;
+ background-size: cover!important;
+}
+
+#woot.crowd-response.disabled .icon,
+#woot.crowd-response.selected .icon {
+  background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+
+#grab.crowd-response .icon{
+  background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+
+#grab.crowd-response.disabled .icon,
+#grab.crowd-response.selected .icon {
+  background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+
+#meh.crowd-response .icon{
+ background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+
+#meh.crowd-response.disabled .icon,
+#meh.crowd-response.selected .icon {
+ background: url(https://i.imgur.com/qmNHN20.png) no-repeat;
+}
+#woot,
+#grab,
+#meh{
+  height: 80px !important;
+  width: 80px !important;
+  border-radius: 50%;
+  border: 2px solid;
+  bottom: 10px !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+#woot:hover,
+#grab:hover,
+#meh:hover {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+#vote .bottom{
+ background: rgba(0, 0, 0, 0) !important;
+}
+#woot:not(.selected){
+  border: 2px solid #25b961;
+}
+#grab:not(.selected){
+  border: 2px solid #FF5CDE;
+}
+#meh:not(.selected){
+  border: 2px solid #c42e3b;
+}
+
+#woot.selected {
+    background: #25b961 !important;
+}
+#grab.selected{
+    background: #FF5CDE !important;
+}
+#meh.selected{
+    background: #c42e3b !important;
+}
+#vote .crowd-response.disabled .bottom {
+    background: rgba(0, 0, 0, 0.28);
+}
+
+
+
+#woot.crowd-response.disabled .icon:before,
+#woot.crowd-response.selected .icon:before {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+#woot.crowd-response .icon:before {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+#grab.crowd-response:not(.selected) .icon:after {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 1px -1px;
+}
+#grab.crowd-response.disabled .icon:after {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 1px -1px;
+}
+#meh.crowd-response.disabled .icon:after,
+#meh.crowd-response.selected .icon:after {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 0;
+}
+#meh.crowd-response .icon:after {
+    content: url(https://i.imgur.com/qmNHN20.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 0;
+}
 
 /* Sombra das caixas de dialogo e bordas redondas ! */
 

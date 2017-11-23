@@ -69,9 +69,9 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 /* Itens relacionados a playlist! */
 
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, 
-.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
+.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #bc1234 0px, #0a090a 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
 .media-list.history .row.selected, .media-list.history .selected .actions {  background:#bc1234!important; 
-box-shadow: 0 0 10px #0a090a !important; }
+box-shadow: 0 0 10px #bc1234 !important; }
 .media-list.history .score .grabs span {   color: #0a090a; }
 #playlist-create:hover { box-shadow: 0 0 10px #0a090a !important; background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%) !important; }
 #playlist-import:hover { box-shadow: 0 0 10px #0a090a !important; background: linear-gradient(to bottom, #0a090a 0px, #0a090a 100%)!important; }

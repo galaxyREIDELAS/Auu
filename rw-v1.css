@@ -305,6 +305,15 @@ top: 10px !important;
   left: 16px !important;
   top: 31px!important;
 
+} 
+
+#room-bar .icon-room {
+  background: url() center no-repeat !important;
+  width: 100px!important;
+ top: 5px!important;
+  background-position: 0!important;
+ background-size: cover!important;
+	
 }
 
 #woot.crowd-response.disabled .icon,

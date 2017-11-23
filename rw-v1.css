@@ -508,9 +508,6 @@ pointer-events: auto;
     filter: brightness(3);
 }
 
-#playlist-button {
-    background: linear-gradient(to bottom,#FF5CDE 0,#5700FF 100%);
-}
 /* Sombra das caixas de dialogo e bordas redondas ! */
 
  #chat-input, .dialog-input-background, .input-background, #room-info .input-background, #input-room-name , 

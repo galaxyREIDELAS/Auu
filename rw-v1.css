@@ -599,15 +599,8 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 .media-list .row.now-playing { border-bottom: #FC2457 2px solid !important; }
 
 #toast-notifications .notification {box-shadow: none !important;}
-#toast-notifications .notification .left { border-radius: 20px 0px 0px 20px !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; background: linear-gradient(to bottom, #9B0309 0, #4D0C11 100%) !important; }
-#toast-notifications .notification .right:hover, #toast-notifications .notification .right { background: linear-gradient(to bottom, rgba(14, 14, 15, 0.81) 0%, rgb(157, 3, 9) 50%, rgba(14, 14, 15, 0.75) 100%) !important;}
-
-a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
-#chat-messages .icon-meh, #chat-messages .icon-grab, #chat-messages .icon-clock-orange, #chat-messages .icon-origem-active { top: 3px !important; left: 20px !important; }
-
-
-#user-inventory .avatars .grid .cell, #user-inventory .badges .grid .cell, .user-content .grid .cell { border-radius: 30px; }
-.user-content.communities .grid .cell  {border-radius: 30px; }
+#toast-notifications .notification .left { border-radius: 20px 0px 0px 20px !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; background: linear-gradient(to bottom, #bc1234 0, #000 100%) !important; }
+#toast-notifications .notification .right:hover, #toast-notifications .notification .right { background: linear-gradient(to bottom, rgba(188, 18, 52, 0.81) 0%, rgb(188, 18, 52) 50%, rgba(188, 18, 52, 0.75) 100%) !important;}
 
 #history-button  { background: linear-gradient(to bottom, #961D88 0, #41073C 100%); }
 #history-button i.icon.icon-history-white  {

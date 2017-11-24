@@ -464,8 +464,8 @@ pointer-events: auto;
     background: transparent;
 }
 .pop-menu.grab .bar {
-    background: linear-gradient(rgb(170, 116, 255), #925aff);
-    box-shadow: inset -157px 0 0 0 #222;
+    background: linear-gradient(rgb(255, 92, 222), #ff5cde);
+    box-shadow: inset -157px 0 0 0 #ff5cde;
 }
 .pop-menu .bar .bar-divider {
     background: #AAA;

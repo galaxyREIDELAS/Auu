@@ -477,7 +477,7 @@ pointer-events: auto;
     background: rgba(0,0,0,.5)
 }
 .pop-menu.grab .menu ul li:hover {
-    background: linear-gradient(rgba(170, 116, 255, .5), rgba(146, 90, 255, .5)) !important
+    background: linear-gradient(rgba(255, 92, 222, .5), rgba(255, 92, 222, .5)) !important
 }
 .pop-menu.grab .menu ul li.create:hover {
     background: linear-gradient(rgba(255, 92, 222, .5), rgba(255, 92, 222, .5)) !important

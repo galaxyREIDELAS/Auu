@@ -250,11 +250,11 @@ box-shadow: 0 0 10px #313131 !important; }
 
 /* Avatares */
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
-background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
+background: linear-gradient(to bottom,#8e4386 0,#0D607E 56%,#894281 73%,#b756ac 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
-background: linear-gradient(to bottom,#bc1234 0,rgba(188, 18, 52, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(188, 18, 52, 0.75) 100%) !important; }
-#user-menu .avatar { background: linear-gradient(to bottom,#bc1234 0,rgba(188, 18, 52, 0.33) 56%,#000 73%,#bc1234 100%); }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#bc1234 0,rgba(188, 18, 52, 0.33) 56%,#000 73%,#bc1234 100%); }
+background: linear-gradient(to bottom,#ff5cde 0,rgba(219, 200, 149, 0.68) 56%,rgba(188, 18, 52, 0.42) 73%,rgba(209, 192, 146, 0.75) 100%) !important; }
+#user-menu .avatar { background: linear-gradient(to bottom,#d1c092 0,rgba(99, 29, 91, 0.33) 56%,#894281 73%,#dbc895 100%); }
+.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#ff5cde 0,rgba(140, 81, 133, 0.33) 56%,#8c5185 73%,#631d5b 100%); }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 

@@ -244,8 +244,20 @@ box-shadow: 0 0 10px #313131 !important; }
 #user-view { background: linear-gradient(to right,rgba(0, 0, 0, 0.98) 0,rgba(0, 0, 0, 0.85) 100%) !important; }
 #user-friends .list .row { background: linear-gradient(to right,rgba(0, 0, 0, 0.17) 0,rgba(255, 255, 255, 0.09) 100%) !important; }
 
-/* Efeitos de sombras nos botões esquerdos de DJ */
+/* delete botao roxo */
 
+#chat .delete-button {
+    background: linear-gradient(hsl(290,30%,20%), hsl(290,30%,15%));
+    box-shadow: inset 0 0 0 1px hsl(290,30%,40%);
+    border-radius: 4px;
+    color: hsl(290,30%,40%);
+    transition: all .25s ease-in-out;
+}
+#chat .delete-button:hover {
+    background: linear-gradient(hsl(290,30%,50%), hsl(290,30%,40%));
+    box-shadow: inset 0 0 0 1px hsl(290,30%,70%);
+    color: hsl(290,30%,70%);
+}
 
 
 /* Avatares */

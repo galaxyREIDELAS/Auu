@@ -526,7 +526,7 @@ pointer-events: auto;
 #import-youtube .youtube-input, #import-youtube .button,#playlist-import-panel .button, 
 #user-friends .list .row .buttons button, #user-friends .tab-menu button, .tab-menu button,
 .user-content.profile .meta .blurb input, .user-content.profile .meta .blurb .box, #user-lists .list-header .input-background,
-.app-right .friends .list-header .input-background { border-radius: 30px;   background: #282c35; } 
+.app-right .friends .list-header .input-background { border-radius: 30px;   background: #000; } 
 #search-bar , #filter-bar { border-radius: 30px; background: #000; }
 
 /* Woot / Meh / Grab /  desativados! */

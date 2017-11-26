@@ -171,6 +171,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 .dropdown dd .row { background: rgba(0,0,0,0.5) !important; }
 #user-menu .item .label { top: 7px !important; } 
 .experience .xp .next-level, .app-right .friends .list .row .room { color: #FFFFFF !important; }
+#user-lists .list .user:hover {
+    background: rgba(0,0,0,.8) !important; }
 
 /* Barra de EXP */
 .experience .xp .bar .progress {
@@ -270,7 +272,7 @@ background: linear-gradient(to bottom,#ff5cde 0,rgba(219, 200, 149, 0.68) 56%,rg
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
-/* parada de girar que o galaxy quer de ferscura */
+/* parada de girar botao conf, botoes w,g,m, e lista de espera */
 
 #history-button .icon, 
 #footer-user .buttons .button.settings .icon {
@@ -643,10 +645,7 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 #tooltip .corner{ border-top: 10px solid #808080; border-left: 10px solid #808080; }
 #tooltip.right .corner{ border-top:10px solid #808080; border-right:10px solid #808080; }
 
-/* paradas do galaxy, lista de user black, fundo inventario */
-
-#user-lists .list .user:hover {
-    background: rgba(0,0,0,.8) !important;
+/* fundo inventario */
 	
 #user-menu .avatar {
     box-shadow: inset 0 0 30px rgba(0,0,0,.5);

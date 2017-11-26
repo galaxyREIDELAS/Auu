@@ -183,7 +183,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 /* Barra de EXP */
 .experience .xp .bar .progress {
-border-radius: 10px 0px 10px 0px !important; background: #808080; box-shadow: 0 0 10px 5px #808080; }
+border-radius: 2px 0px 2px 0px !important; background: #8e4386; box-shadow: 0 0 2px 2px #808080; }
 #footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #4169E1; box-shadow: 0 0 15px #808080 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }

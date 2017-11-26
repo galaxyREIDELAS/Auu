@@ -669,11 +669,11 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 #user-menu .avatar {
     box-shadow: inset 0 0 30px rgba(0,0,0,.5);
     -webkit-box-shadow: inset 0 0 30px rgba(0,0,0,.5);
-    background: url("https://imgur.com/M7UqacI.png");
+    background: url("https://imgur.com/XSOcFn9.png");
 }
 
 .user-content .grid .cell .top {
-    background: url("https://imgur.com/M7UqacI.png") no-repeat !important;
+    background: url("https://imgur.com/XSOcFn9.png") no-repeat !important;
     background-size: 185px 175px !important;
     box-shadow: inset 0 0 30px rgba(0,0,0,.5);
     -webkit-box-shadow: inset 0 0 30px rgba(0,0,0,.5);

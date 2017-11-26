@@ -631,6 +631,11 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 #tooltip .corner{ border-top: 10px solid #808080; border-left: 10px solid #808080; }
 #tooltip.right .corner{ border-top:10px solid #808080; border-right:10px solid #808080; }
 
+/* paradas do galaxy, lista de user black, fundo inventario */
+
+#user-lists .list .user:hover {
+    background: rgba(0,0,0,.8) !important;
+	
 #user-menu .avatar {
     box-shadow: inset 0 0 30px rgba(0,0,0,.5);
     -webkit-box-shadow: inset 0 0 30px rgba(0,0,0,.5);

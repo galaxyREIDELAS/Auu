@@ -561,7 +561,7 @@ border-radius: 10px !important; }
 #volume .slider .line, #user-settings .container .cap .slider .bar {
     top: 8px;
     height: 5px;
-    background: #808080;
+    background: #c1bfbf;
     display: block;
     overflow: hidden;
     cursor: pointer;

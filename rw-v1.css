@@ -184,9 +184,21 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 /* Barra de EXP */
 .experience .xp .bar .progress {
 border-radius: 2px 0px 2px 0px !important; background: #8e4386; box-shadow: 0 0 2px 2px #808080; }
-#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #4169E1; box-shadow: 0 0 15px #808080 !important; }
-.experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
-#footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
+.icon-badge-pp, .icon-pp-small {
+    filter: hue-rotate(10deg);
+}
+.experience .xp .bar,
+#footer-user .info .meta div.bar {
+    background: linear-gradient( #8e4386) !important;
+}
+.experience .xp .bar .progress,
+#footer-user .info .meta div.bar .progress {
+   
+}
+.icon.icon-arrow-down-blue,
+.icon.icon-check-blue {
+    filter: hue-rotate(820deg) !important;
+}
 
 /* Room Info / Room Settings */
 

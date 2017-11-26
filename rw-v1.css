@@ -52,7 +52,7 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 !important;
     box-shadow:
         inset 0 0 0 0px hsla(290,55%,40%,.8),
-    0 0 0px 0.25px hsla(290,55%,40%,.8) !important;
+    0 0 0px 1.20px hsla(290,55%,40%,.8) !important;
 }
     
 /* Itens Relacionados ao Menu do ícone do plug! */

@@ -199,6 +199,9 @@ border-radius: 2px 0px 2px 0px !important; background: #8e4386; box-shadow: 0 0 
 .icon.icon-check-blue {
     filter: hue-rotate(820deg) !important;
 }
+.icon-badge-pp, .icon-pp-small {
+    filter: hue-rotate(71deg);
+}
 
 /* Room Info / Room Settings */
 

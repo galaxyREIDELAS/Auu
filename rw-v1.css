@@ -103,6 +103,38 @@ box-shadow: 0 0 10px #bc1234 !important; }
 #dashboard { background-color: rgba(0, 0, 0, 0.89) !important;  }
 .communities .grid .cell {border-radius: 20px; }
 .tab-menu button.selected { background: linear-gradient(to bottom,rgba(188, 18, 52, 0.8) 0,rgba(188, 18, 52, 1) 100%) !important; border-radius: 30px; }
+.communities .grid .cell .favorite {
+    top: 0;
+    right: 0;
+    width: 43px;
+    height: 43px;
+    background: rgba(197, 152, 64, 0);}
+.communities .grid .cell .meta {
+    position: relative;
+    z-index: 2;
+    margin-top: 186px;
+    width: 100%;
+    height: 90px;
+    background: rgba(0, 0, 0, 0.5);
+    transition: all .25s ease-in;}
+.communities .grid .cell .meta .join {
+    border-radius: 10px;
+    border: 1px solid rgba(188, 18, 52, 0.63);
+    background: rgb(0, 0, 0);}
+.communities .grid .cell .meta .join:hover {
+    background: linear-gradient(hsl(348, 61%, 53%), hsla(348, 62%, 21%, 0.95));}
+.grid .cell .bar, .grid .cell .meta {
+background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !important;}
+#chat .welcome {
+    color: #bc1234;}
+.grid .cell .top .expires span {
+	color: hsl(30,100%,50%) !important;}
+.user-content.communities .grid .cell, .grid .cell {
+    background: radial-gradient(hsl(0, 0%, 0%), hsl(0, 0%, 0%)) !important;}
+.grid .cell .meta .host {
+	text-align: center !important;
+	top: 6px !important;
+	color: #eee !important;}
 
  /* Itens relacionados aos círculos de status! */
 

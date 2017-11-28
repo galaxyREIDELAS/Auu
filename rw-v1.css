@@ -126,7 +126,7 @@ box-shadow: 0 0 10px #bc1234 !important; }
 .grid .cell .bar, .grid .cell .meta {
 background: linear-gradient(hsla(0, 0%, 0%, 0.94), hsla(0, 0%, 0%, 0.94)) !important;}
 #chat .welcome {
-    color: #bc1234;}
+    color: #8e4386;}
 .grid .cell .top .expires span {
 	color: hsl(30,100%,50%) !important;}
 .user-content.communities .grid .cell, .grid .cell {

@@ -346,9 +346,9 @@ background: linear-gradient(to bottom,#ff5cde 0,rgba(219, 200, 149, 0.68) 56%,rg
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
-#user-lists .list .user.id-17148717 .name:after,
-#user-rollover.id-17148717 .meta .username:after,
-#chat [data-cid^='17148717-'] .un:after {
+#user-lists .list .user.id-000000 .name:after,
+#user-rollover.id-000000 .meta .username:after,
+#chat [data-cid^='000000-'] .un:after {
     content: "VIP";
     margin-left: 5px;
     background: rgba(0,0,0,.3);

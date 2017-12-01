@@ -198,14 +198,14 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 /* Itens relacionados ao menu do seu  perfil! */
 
-.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background: #bc1234 !important; }
+.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background: #8e4386 !important; }
 .user-content.profile .notifications .row .timestamp { color: #eee; }
 #user-menu { background: rgba(10, 11, 12, 0.26) !important; }
 .dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,rgba(10, 11, 12, 0.8) 0,rgba(188, 18, 52, 1) 100%) !important; box-shadow: 0 0 15px #bc1234 !important; } 
 .dropdown, #user-settings .tab-menu button:first-child { border-radius: 50px; } 
 .user-content .header span, .user-content.profile .meta .badge span, .user-content.profile .meta .joined { color: #eee;} 
 #user-friends .list .row { border-radius: 300px; }
-.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited, .user-content.profile .points .label { color: #bc1234 !important; }
+.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited, .user-content.profile .points .label { color: #8e4386 !important; }
 .user-content.profile .points .label { color: #12A9E0; text-transform: uppercase; }
 .dropdown dd .row { background: rgba(0,0,0,0.5) !important; }
 #user-menu .item .label { top: 7px !important; } 

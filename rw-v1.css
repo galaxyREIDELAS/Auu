@@ -230,7 +230,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
     filter: hue-rotate(71deg);
 }
 .experience .xp .bar .progress {
-    background: linear-gradient(hsl(360, 61%, 54%), hsl(306, 59%, 31%));
+    background: linear-gradient(hsl(306, 36%, 41%), hsl(306, 59%, 31%));
 }
 #footer-user .info .bar .progress {
     background: rgba(142, 67, 134, 1);

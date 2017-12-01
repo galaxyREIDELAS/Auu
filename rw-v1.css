@@ -662,8 +662,8 @@ border-radius: 10px !important; }
 .user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #c42e3b !important; }
 
 #volume .slider .line, #user-settings .container .cap .slider .bar {
-    top: 8px;
-    height: 5px;
+    top: 10px;
+    height: 4px;
     background: #c1bfbf;
     display: block;
     overflow: hidden;

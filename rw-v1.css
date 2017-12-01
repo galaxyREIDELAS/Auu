@@ -661,13 +661,23 @@ border-radius: 10px !important; }
 }
 .user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #c42e3b !important; }
 
-#volume .slider .line, #user-settings .container .cap .slider .bar {
+#volume .slider .line,  .container .cap .slider .bar {
     top: 10px;
     height: 4px;
     background: #c1bfbf;
     display: block;
     overflow: hidden;
     cursor: pointer;
+
+}
+
+#user-settings   .container .cap .slider .bar {
+    top: 5px;
+    height: 5px;
+    background: #c1bfbf;
+    display: block;
+    overflow: hidden;
+    cursor: pointer;    
 
 }
 

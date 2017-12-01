@@ -597,9 +597,9 @@ pointer-events: auto;
 .app-right .friends .list-header .input-background { border-radius: 30px;   background: #000; } 
 #search-bar , #filter-bar { border-radius: 30px; background: #000; }
 
-#user-lists .list .user.id-12601578 .name:after,
-#user-rollover.id-12601578 .meta .username:after,
-#chat [data-cid^='12601578-'] .un:after {
+#user-lists .list .user.id-000000 .name:after,
+#user-rollover.id-000000 .meta .username:after,
+#chat [data-cid^='000000-'] .un:after {
     content: "BOSS";
     margin-left: 5px;
     background: rgba(0,0,0,.3);

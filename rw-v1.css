@@ -638,7 +638,7 @@ pointer-events: auto;
 	display: inline-block; 
 	padding: 0 3px;
     color: #8e4386;
-    background: linear-gradient(rgba(0, 102, 102, 0.2), rgba(0, 102, 102, 0.2));
+    background: linear-gradient(rgba(170, 116, 255, 0.2), rgba(0, 102, 102, 0.2));
     border-radius: 4px;
     font-size: 10px;
 }

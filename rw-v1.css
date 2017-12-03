@@ -346,17 +346,24 @@ background: linear-gradient(to bottom,#ff5cde 0,rgba(219, 200, 149, 0.68) 56%,rg
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
-#user-lists .list .user.id-000000 .name:after,
-#user-rollover.id-000000 .meta .username:after,
-#chat [data-cid^='000000-'] .un:after {
-    content: "VIP";
-    margin-left: 5px;
-    background: rgba(0,0,0,.3);
-    padding: 0px 5px;
-    border: 1px solid rgba(255, 54, 210,.5);
-    border-radius: 5px;
-    color: #ff36d2;
+#user-rollover.id-20574971:before{
+    content: 'PRO';
+    top: 119px;
+    left: 105px;
+    position: absolute;
+    display: inline-block; 
+    padding: 0 3px;
+    color: #8e4386;
+    background: linear-gradient(rgba(0, 102, 102, 0.2), rgba(0, 102, 102, 0.2));
+    border-radius: 0px;
     font-size: 10px;
+}
+#user-rollover.id-20574971 .meta:after{
+    content: 'em Mendigar';
+    color: #808691;
+    position: absolute;
+    top: 116px;
+    left: 134px;
 }
 
 /* parada de girar botao conf, botoes w,g,m, e lista de espera */

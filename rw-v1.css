@@ -334,7 +334,18 @@ box-shadow: 0 0 4px #000 !important; }
     box-shadow: inset 0 0 0 1px hsl(290,30%,70%);
     color: hsl(290,30%,70%);
 }
-
+#user-lists .list .user.id-20574971 .name:after,
+#user-rollover.id-20574971 .meta .username:after,
+#chat [data-cid^='20574971-'] .un:after {
+    content: "JUBILEU";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid rgba(56, 141, 153,.5);
+    border-radius: 5px;
+    color: #388d99;
+    font-size: 10px;
+}
 
 /* Avatares */
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 

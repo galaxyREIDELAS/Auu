@@ -364,8 +364,8 @@ background: linear-gradient(to bottom,#ff5cde 0,rgba(219, 200, 149, 0.68) 56%,rg
     position: absolute;
     display: inline-block; 
     padding: 0 3px;
-    color: #8e4386;
-    background: linear-gradient(rgba(0, 102, 102, 0.2), rgba(0, 102, 102, 0.2));
+    color: #aa74ff;
+    background: linear-gradient(rgba(170, 116, 255, 0.2), rgba(0, 102, 102, 0.2));
     border-radius: 0px;
     font-size: 10px;
 }
